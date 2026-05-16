@@ -1,23 +1,17 @@
-# 👋 Hey there, I'm Genayo!
+# 👋 Hey there, I'm Farrel!
 
-💻 **Web Development** | 📊 **Data Analysis** | 🤖 **Machine Learning & AI Enthusiast**
+📊 **Data Analysis** | 🤖 **Machine Learning & AI Enthusiast**
 
-I’m an Information Systems student currently diving deep into web development, data analytics, machine learning, and artificial intelligence. I love turning concepts into interactive projects and transforming data into meaningful insights.
+I’m an Information Systems student currently diving deep into data analytics, machine learning, and artificial intelligence. I love turning concepts into interactive projects and transforming data into meaningful insights.
 
 ---
 
 ## 🚀 What I'm Learning & Building
 
-### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- PHP / Laravel
-- TailwindCSS / Bootstrap  
-- MySQL / PostgreSQL
-- React JS & Vite
 
 ### 📈 Data Analysis
-- Python (Pandas, NumPy, Matplotlib)  
-- Excel & Spreadsheets  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Excel, Spreadsheets, Power BI
 - SQL Querying  
 - Data Cleaning & Visualization
 - Tableu & Power BI
@@ -31,8 +25,7 @@ I’m an Information Systems student currently diving deep into web development,
 
 ---
 
-## 🔥 Current Focus
-- Full-stack web development  
+## 🔥 Current Focus 
 - Practical data analysis & visualization  
 - Intro to ML & AI projects  
 - Building a portfolio that blends tech and impact
